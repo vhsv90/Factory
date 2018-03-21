@@ -8,3 +8,4 @@ C:\Data\Code\net-core\Patterns\Factory\Factory\Factory\obj\Debug\netcoreapp2.0\F
 C:\Data\Code\net-core\Patterns\Factory\Factory\Factory\obj\Debug\netcoreapp2.0\Factory.AssemblyInfo.cs
 C:\Data\Code\net-core\Patterns\Factory\Factory\Factory\obj\Debug\netcoreapp2.0\Factory.dll
 C:\Data\Code\net-core\Patterns\Factory\Factory\Factory\obj\Debug\netcoreapp2.0\Factory.pdb
+C:\Data\Code\net-core\Patterns\Factory\Factory\Factory\obj\Debug\netcoreapp2.0\Factory.csprojResolveAssemblyReference.cache
